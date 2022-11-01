@@ -7,6 +7,4 @@ Currently focusing on my career in Aerospace, so not much commits going on here;
 ### Connect with Me 📫
 
 - [LinkedIn](www.linkedin.com/in/jackiabishop)
-- [Blog](jackbishop.dev)
 - [Twitter](https://twitter.com/JackIABishop)
-
